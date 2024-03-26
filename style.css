@@ -1,0 +1,12 @@
+.links{
+    display: inline;
+    padding-left: 50px;
+    padding-right: 27px;
+    font-size: 20px;
+    font-family: 'Young Serif', serif;;
+    }
+    
+
+    .links:hover{font-size: 25px;
+        text-decoration: underline;}
+       
